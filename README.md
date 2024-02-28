@@ -1,2 +1,2 @@
 # Akalon
- project for intro to web tech college class
+WIP site for custom computer business
